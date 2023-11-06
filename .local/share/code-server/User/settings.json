@@ -1,0 +1,27 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "java.home": "/usr/java/jdk-16.0.2",
+    "editor.accessibilityPageSize": 16,
+    "editor.fontSize": 16,
+    "editor.fontWeight": "normal",
+    "terminal.integrated.inheritEnv": false,
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-16",
+            "path": "/usr/java/jdk-16.0.2",
+        },
+    ],
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "[java]": {
+
+        "editor.suggest.snippetsPreventQuickSuggestions": false
+    },
+    "java.test.config": {},
+    "json.schemaDownload.enable": false,
+    "java.codeGeneration.generateComments": true
+}

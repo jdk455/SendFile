@@ -1,0 +1,48 @@
+[2023-11-06T10:55:04.878Z] info  code-server 4.14.0 9955cd91a4ca17e47d205e5acaf4c342a917a5e9
+[2023-11-06T10:55:04.878Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-11-06T10:55:04.889Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-11-06T10:55:04.889Z] info  HTTP server listening on http://0.0.0.0:8080/
+[2023-11-06T10:55:04.889Z] info  Session server listening on /tmp/code-server-ipc.sock
+[2023-11-06T10:55:04.889Z] info    - Authentication is enabled
+[2023-11-06T10:55:04.890Z] info      - Using password from ~/.config/code-server/config.yaml
+[2023-11-06T10:55:04.890Z] info    - Not serving HTTPS
+[11:07:06] 
+
+
+
+
+[11:07:06] Extension host agent started.
+[11:07:06] Started initializing default profile extensions in extensions installation folder. file:///root/.local/share/code-server/extensions
+[11:07:06] Completed initializing default profile extensions in extensions installation folder. file:///root/.local/share/code-server/extensions
+[11:07:06] Marked extension as uninstalled vscjava.vscode-java-dependency-0.18.5
+[11:07:09] [10.42.44.128][93a536dc][ManagementConnection] New connection established.
+[11:07:10] [10.42.44.128][70f37160][ExtensionHostConnection] New connection established.
+[11:07:10] [10.42.44.128][70f37160][ExtensionHostConnection] <1059> Launched Extension Host Process.
+[11:07:14] [10.42.44.128][6af9bddc][ManagementConnection] New connection established.
+[11:07:15] [10.42.44.128][fb86f8ca][ExtensionHostConnection] New connection established.
+[11:07:15] [10.42.44.128][fb86f8ca][ExtensionHostConnection] <2230> Launched Extension Host Process.
+[11:07:15] [10.42.44.128][6af9bddc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[11:07:24] [10.42.44.128][93a536dc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[11:07:24] [10.42.44.128][70f37160][ExtensionHostConnection] <1059> Extension Host Process exited with code: 0, signal: null.
+[11:07:25] [10.42.44.128][48321679][ManagementConnection] New connection established.
+[11:07:26] [10.42.44.128][2ff45c5e][ExtensionHostConnection] New connection established.
+[11:07:26] [10.42.44.128][2ff45c5e][ExtensionHostConnection] <2698> Launched Extension Host Process.
+[11:08:07] [10.42.44.128][48321679][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[11:08:07] [10.42.44.128][2ff45c5e][ExtensionHostConnection] <2698> Extension Host Process exited with code: 0, signal: null.
+[11:11:10] [10.42.44.128][f881106c][ManagementConnection] New connection established.
+[11:11:11] [10.42.44.128][7b71cbd5][ExtensionHostConnection] New connection established.
+[11:11:11] [10.42.44.128][7b71cbd5][ExtensionHostConnection] <3740> Launched Extension Host Process.
+[11:12:25] [10.42.44.128][fb86f8ca][ExtensionHostConnection] <2230> Extension Host Process exited with code: 0, signal: null.
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 56 chars and 1 size events
+[11:15:21] [10.42.44.128][7b71cbd5][ExtensionHostConnection] The client has reconnected.
+[11:15:22] [10.42.44.128][f881106c][ManagementConnection] The client has reconnected.
+[11:20:33] [10.42.44.128][f881106c][ManagementConnection] The client has reconnected.
+[11:20:33] [10.42.44.128][7b71cbd5][ExtensionHostConnection] The client has reconnected.
+[11:25:20] [10.42.44.128][7b71cbd5][ExtensionHostConnection] The client has reconnected.
+[11:25:20] [10.42.44.128][f881106c][ManagementConnection] The client has reconnected.
+[11:31:47] [10.42.44.128][7b71cbd5][ExtensionHostConnection] The client has reconnected.
+[11:31:47] [10.42.44.128][f881106c][ManagementConnection] The client has reconnected.
+[11:35:50] [10.42.44.128][f881106c][ManagementConnection] The client has reconnected.
+[11:35:52] [10.42.44.128][7b71cbd5][ExtensionHostConnection] The client has reconnected.

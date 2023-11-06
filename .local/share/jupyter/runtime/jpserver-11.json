@@ -1,0 +1,12 @@
+{
+  "base_url": "/edu/ingress/423046ae-ea06-46f3-977e-dbd6f11f39b8-dl-2311061856115cu-pod/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 11,
+  "port": 8888,
+  "root_dir": "/root",
+  "secure": false,
+  "token": "axuaw7",
+  "url": "http://0.0.0.0:8888/edu/ingress/423046ae-ea06-46f3-977e-dbd6f11f39b8-dl-2311061856115cu-pod/",
+  "version": "1.4.1"
+}
