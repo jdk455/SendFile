@@ -54,3 +54,19 @@ git remote add origin https://github.com/jdk455/BigData.git
 ls
 #1699270607
 git init
+#1699270769
+git add .
+#1699270776
+git commit -m "Initial commit"
+#1699270816
+git remote add origin https://github.com/jdk455/BigData.git
+#1699270865
+git remote remove origin
+#1699270873
+git remote add origin https://github.com/jdk455/BigData.git
+#1699271290
+# 初始化一个新的Git仓库
+#1699271290
+git init 
+#1699271290
+# 添加所有文件到Git仓库
